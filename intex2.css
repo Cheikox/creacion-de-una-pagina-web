@@ -20,7 +20,27 @@
 
     font-size: 30px;
     margin: 100px;
+}
 
+#a3{
+    color:chartreuse;
+    background-color: crimson;
+}
+#a3:hover{
+    color: darkgreen;
+    background-color:burlywood;
+}
 
+#a4{
+    color: darkgrey;
+    background-color: darkkhaki;
+    width: 300px;
+    border-radius: 50px;
+    margin: 50px;
+}
 
+#a4:hover{
+    color: darkmagenta;
+    background-color: darkolivegreen;
+    transform: scale(1.5);
 }
