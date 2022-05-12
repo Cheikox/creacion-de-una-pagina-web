@@ -1,0 +1,27 @@
+#content{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    height: 937px;
+}
+.form-label{
+    color: rgb(21, 0, 54);
+}
+
+#cuadro{
+    margin: 0px 100px 100px 100px;
+}
+
+.titulo{
+    text-align: center;
+    height: 300px;
+    padding: 100px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 50px;
+    color: rgb(21, 0, 54);
+    
+}
+
+#liveAlertBtn{
+    color: rgb(21, 0, 54);
+    background-color: transparent;
+    border-color: rgb(21, 0, 54);
+}
